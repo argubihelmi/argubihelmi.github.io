@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://its.justhelmi.com/categories/</loc>
+    <loc>https://its.justhelmi.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://its.justhelmi.com/tags/</loc>
+    <loc>https://its.justhelmi.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://its.justhelmi.com/</loc>
+    <loc>https://its.justhelmi.com/</loc>
     <priority>0</priority>
   </url>
   
