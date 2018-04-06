@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://its.justhelmi.com/posts/first-post/</loc>
+    <lastmod>1970-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://its.justhelmi.com/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://its.justhelmi.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://its.justhelmi.com/posts/</loc>
+    <lastmod>1970-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -14,6 +29,7 @@
   
   <url>
     <loc>https://its.justhelmi.com/</loc>
+    <lastmod>1970-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
