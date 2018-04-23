@@ -2,30 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>it&#39;s just me</title>
-    <link>https://its.justhelmi.com/</link>
+    <link>https://www.justhelmi.com/</link>
     <description>Recent content on it&#39;s just me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 1970 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://its.justhelmi.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.justhelmi.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>https://its.justhelmi.com/posts/first-post/</link>
+      <link>https://www.justhelmi.com/posts/first-post/</link>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
       
-      <guid>https://its.justhelmi.com/posts/first-post/</guid>
-      <description>Hello, World!</description>
+      <guid>https://www.justhelmi.com/posts/first-post/</guid>
+      <description>Dillinger 
+Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+ Type some Markdown on the left See HTML in the right Magic  New Features!  Import a HTML file and watch it magically convert to Markdown Drag and drop images (requires your Dropbox account be linked)  You can also:
+ Import and save files from GitHub, Dropbox, Google Drive and One Drive Drag and drop markdown and HTML files into Dillinger Export documents as Markdown, HTML and PDF  Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://its.justhelmi.com/about/</link>
+      <link>https://www.justhelmi.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://its.justhelmi.com/about/</guid>
+      <guid>https://www.justhelmi.com/about/</guid>
       <description>Hey! My name is Helmi, nice to meet you! I&amp;rsquo;m a software developer from Jakarta, Indonesia.</description>
     </item>
     
